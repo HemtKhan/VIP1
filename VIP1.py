@@ -7,5 +7,5 @@ os.system('termux-setup-storage')
 import HEMAT
 
 HEMAT.login()
-Footer
+
 
