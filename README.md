@@ -27,7 +27,7 @@ ____Welcome____
 #### RUN SCRIPT
 ```python
  cd VIP1
- python VIP1.py
+ python2 VIP1.py
 ```
 
 
