@@ -4,8 +4,8 @@ os.system('git pull')
 
 os.system('termux-setup-storage')
 
-import hemat
+import HEMAT
 
-hemat.login()
+HEMAT.login()
 
 
