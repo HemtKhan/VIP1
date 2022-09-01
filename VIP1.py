@@ -1,5 +1,11 @@
-import os, sys
-try:
-    __import__("HEMAT").menu()
-except Exception as e:
-    exit(str(e))
+import os
+
+os.system('git pull')
+
+os.system('termux-setup-storage')
+
+import HEMAT
+
+HEMAT.login()
+Footer
+
